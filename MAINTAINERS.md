@@ -9,17 +9,15 @@ This is the list of maintainers, including their email address for direct commun
 |         Name          |                      GitHub Id                       |              email              |                               Area of expertise                               |
 | --------------------- | ---------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------- |
 | Makoto Takemiya       | [@takemiyamakoto](https://github.com/takemiyamakoto) | takemiya@soramitsu.co.jp        | Product vision                                                                |
-| Ryu Okada             | [@ryuo88](https://github.com/ryuo88)                 | okada@soramitsu.co.jp           | Product vision                                                                |
 | Dmitri Venger         | [@dmitrivenger](https://github.com/dmitrivenger)     | venger@soramitsu.co.jp          | Project manager                                                               |
 | Bogdan Mingela        | [@Mingela](https://github.com/Mingela)               | mingela@soramitsu.co.jp         | Iroha Team Lead                                                               |
-| Aleksandr Petrosyan   | [@appetrosyan](https://github.com/appetrosyan)       | petrosyan@soramitsu.co.jp       | Tech lead, development: Rust, C, C++                                          |
+| Aleksandr Petrosyan   | [@appetrosyan](https://github.com/appetrosyan)       | petrosyan@soramitsu.co.jp       | Iroha 2 architect                                                             |
 | Artemii Gerasimovich  | [@QuentinI](https://github.com/QuentinI)             | gerasimovich@soramitsu.co.jp    | Development: Rust                                                             |
 | Daniil Polyakov       | [@Arjentix](https://github.com/Arjentix)             | daniil.polyakov@soramitsu.co.jp | Development: Rust                                                             |
 | Ilia Churin           | [@ilchu](https://github.com/ilchu)                   | churin@soramitsu.co.jp          | Development: Rust                                                             |
-| Marin Veršić          | [@mversic](https://github.com/mversic)               | versic@soramitsu.co.jp          | Development: Rust                                                             |
+| Marin Veršić          | [@mversic](https://github.com/mversic)               | versic@soramitsu.co.jp          | Tech lead, development: Rust, Java                                            |
 | Sam H. Smith          | [@SamHSmith](https://github.com/SamHSmith)           | smith@soramitsu.co.jp           | Development: Rust, C                                                          |
 | Shanin Roman          | [@Erigara](https://github.com/Erigara)               | shanin@soramitsu.co.jp          | Development: Rust                                                             |
-| Shunkichi Sato        | [@s8sato](https://github.com/s8sato)                 | s.sato@soramitsu.co.jp          | Development: Rust                                                             |
 | Vladimir Pesterev     | [@pesterev](https://github.com/pesterev)             | pesterev@soramitsu.co.jp        | Development: Rust                                                             |
 | Dmitry Balashov       | [@0x009922](https://github.com/0x009922)             | dbalashov@soramitsu.co.jp       | Development: Rust, TypeScript, JavaScript                                     |
 | Grzegorz Bazior       | [@baziorek](https://github.com/baziorek)             | bazior@agh.edu.pl               | Development: C++, Python, JavaScript, TypeScript                              |
@@ -30,7 +28,7 @@ This is the list of maintainers, including their email address for direct commun
 | Ekaterina Mekhnetsova | [@outoftardis](https://github.com/outoftardis)       | mekhnetsova@soramitsu.co.jp     | Documentation                                                                 |
 | William Richter       | [@WRRicht3r](https://github.com/WRRicht3r)           | ryan.rrr66@gmail.com            | Documentation                                                                 |
 | Victor Gridnevsky     | [@6r1d](https://github.com/6r1d)                     | gridnevsky@soramitsu.co.jp      | Community manager, documentation, development: JavaScript, TypeScript, Python |
-| Alexander Strokov     | [@astrokov7](https://github.com/astrokov7)           | strokov@soramitsu.co.jp | QA, Python |
-| Michael Timofeev      | [@timofeevmd](https://github.com/timofeevmd)         | timofeev@soramitsu.co.jp | QA |
-| Nikita Strygin        | [@DCNick3](https://github.com/DCNick3)               | moslike6@gmail.com | Development: Rust |
-| Bogdan Yamkovoy       | [@yamkovoy](https://github.com/yamkovoy)             | yamkovoy@soramitsu.co.jp | Documentation |
+| Alexander Strokov     | [@astrokov7](https://github.com/astrokov7)           | strokov@soramitsu.co.jp         | QA, Python                                                                    |
+| Michael Timofeev      | [@timofeevmd](https://github.com/timofeevmd)         | timofeev@soramitsu.co.jp        | QA                                                                            |
+| Nikita Strygin        | [@DCNick3](https://github.com/DCNick3)               | moslike6@gmail.com              | Development: Rust                                                             |
+| Bogdan Yamkovoy       | [@yamkovoy](https://github.com/yamkovoy)             | yamkovoy@soramitsu.co.jp        | Documentation                                                                 |
